@@ -48,7 +48,7 @@
                 <form class="login-form" id="login-form"  action="{{route('login')}}" method="post">
                     @csrf
                     <div class="form-group">
-                        <label for="exampleInputEmail1" class="text-uppercase">Email 1</label>
+                        <label for="exampleInputEmail1" class="text-uppercase">Email Address</label>
                         <input name="email" type="email" class="form-control" placeholder="">
 
                     </div>
