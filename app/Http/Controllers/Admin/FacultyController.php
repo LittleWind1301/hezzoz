@@ -46,7 +46,7 @@ class FacultyController extends Controller
             $output .= '<table class="table table-striped table-sm text-center align-middle">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
+                                    <th>ID1</th>
                                     <th>Mã Khoa</th>
                                     <th>Tên Khoa</th>
                                     <th>Bộ Môn</th>
