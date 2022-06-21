@@ -18,7 +18,6 @@ class AddMultipleColumnsToExamsTable extends Migration
             $table->dateTime('exam_time_start');
             $table->integer('exam_total_question');
             $table->dateTime('exam_result_date');
-
         });
     }
 
